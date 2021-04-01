@@ -3,13 +3,20 @@ very easy to use
              
                           
                              ~~~~how-to-use~~~~~~~~
-                       1-wget (website(www.exp.com)),,,,,,,,,,,,,,,,,,,,,,,
+                             
+                             
+                             
+                             
+                             
+                             
+                       1-git clone https://github.com/3r0-r/subdomain.git
                        
                        
+                     
+                       2-cd subdomain
                        
-                       2-bash subdomain.sh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+                       3-bash subdomain.sh 
                        
                        
-                       
-              you will find file name subdomains side the script
+              LOL :)
               
